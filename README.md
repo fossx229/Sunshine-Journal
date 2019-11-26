@@ -1,14 +1,5 @@
 # Sunshine Journal by Team README.md
 [![Build Status](https://travis-ci.org/UMM-CSci-3601-S18/iteration-4-readme-md.svg?branch=master)](https://travis-ci.org/UMM-CSci-3601-S18/iteration-4-readme-md)
-# Team Members:
-- Matt Munns
-- Jacob Grinstead
-- Blake Bellamy
-- Kyle Foss
-- Yukai Zang
-- Isaac Yoakum
-- John Schonebaum
-- Yutaro Miyata
 
 ## Introduction
 Our team's main goal was to develop a web application that provides clients of mental health practitioners a service 
@@ -80,6 +71,15 @@ Instructions on setting up the project using a DigitalOcean droplet can be found
 ### MongoDB
 - [Mongo's Java Drivers (Mongo JDBC)][mongo-jdbc]
 
+# Team Members:
+- Matt Munns
+- Jacob Grinstead
+- Blake Bellamy
+- Kyle Foss
+- Yukai Zang
+- Isaac Yoakum
+- John Schonebaum
+- Yutaro Miyata
 
 [angular-karma-jasmine]: https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/
 [e2e-testing]: https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor
@@ -91,4 +91,4 @@ Instructions on setting up the project using a DigitalOcean droplet can be found
 [labtasks]: LABTASKS.md
 [travis]: https://travis-ci.org/
 
-This project was developed as a part of a Software Design class at the University of Minnesota, Morris.
+
