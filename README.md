@@ -51,6 +51,15 @@ Instructions on setting up the project using a DigitalOcean droplet can be found
 * **Gradle**
 * **Google API Client Library** for authenticating users on the server
 
+# Team Members:
+- Matt Munns
+- Jacob Grinstead
+- Blake Bellamy
+- Kyle Foss
+- Yukai Zang
+- Isaac Yoakum
+- John Schonebaum
+- Yutaro Miyata
 ## Resources
 
 ### Google Sign In
@@ -71,15 +80,7 @@ Instructions on setting up the project using a DigitalOcean droplet can be found
 ### MongoDB
 - [Mongo's Java Drivers (Mongo JDBC)][mongo-jdbc]
 
-# Team Members:
-- Matt Munns
-- Jacob Grinstead
-- Blake Bellamy
-- Kyle Foss
-- Yukai Zang
-- Isaac Yoakum
-- John Schonebaum
-- Yutaro Miyata
+
 
 [angular-karma-jasmine]: https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/
 [e2e-testing]: https://coryrylan.com/blog/introduction-to-e2e-testing-with-the-angular-cli-and-protractor
